@@ -16,5 +16,5 @@ SETUP and RUN
 Architecture Magnum API
 =================================
 
-
+![image](https://user-images.githubusercontent.com/74556484/199879828-24812e6b-aeab-41c6-99e9-fd948b3b5731.png)
 
